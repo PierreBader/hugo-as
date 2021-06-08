@@ -1,6 +1,6 @@
 ---
 title: Contenu changé depuis Git
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Contenu modifié par la page Admin
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
